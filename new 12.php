@@ -1,0 +1,1 @@
+?><a href="/blabla.php"><?php echo $name;?></a><?php
